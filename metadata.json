@@ -1,0 +1,5 @@
+{
+  "name": "Aether - Secure Private Messenger",
+  "description": "A high-security, ephemeral messaging platform with absolute admin control and a futuristic interface. Features real-time messaging, end-to-end encryption, and zero-persistence storage.",
+  "requestFramePermissions": []
+}
